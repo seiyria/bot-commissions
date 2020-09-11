@@ -11,3 +11,11 @@
 .block-hero-2 {
   --bg: #832ab5 !important;
 }
+
+img {
+  border-radius: 20px;
+}
+
+.block-feature-1 {
+  background-color: #eeedee;
+}
