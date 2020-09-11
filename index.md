@@ -47,7 +47,7 @@ page_sections:
   headline: <strong>Hosting<span class="light">&nbsp;</span></strong><span
     class="light">of your Discord bot / database / websites</span>
   content: >
-    We know how to host bots, we've been doing it for years. Depending on your needs, we can also host the websites and databases needed for your bot!
+    We know how to host bots, we've been doing it for years. Depending on your needs, we can also host the websites, databases, and domains needed for your bot!
     <br><br>
     We offer flexible pricing based on your needs - join us in Discord to inquire about your project.
   
