@@ -1,0 +1,13 @@
+
+.button.primary {
+  background-color: #603474 !important;
+  color: #fff !important;
+}
+
+.nav-item.active a {
+  color: #832ab5 !important;
+}
+
+.block-hero-2 {
+  --bg: #832ab5 !important;
+}

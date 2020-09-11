@@ -1,80 +1,74 @@
 ---
 layout: blocks
-title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+title: Home
+date: 2020-09-12T00:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/logo.png"
   navigation:
   - link: "/"
     link_text: Home
   - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
+    link_text: What We Do
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: https://discord.gg/nRK9bG9
+    button_text: Commission A Bot
+
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Discord Bot Commissions
+  content: The team that enables you to have a high-quality Discord integration with your community!
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://discord.gg/nRK9bG9
+    button_text: 'Join the Discord'
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+    image: "/uploads/bot-example.png"
+    alt_text: Bot Example
+  background_image: "/uploads/hero-2-bg.png"
+
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: <strong>Development<span class="light">&nbsp;</span></strong><span
+    class="light">of your Discord bot ideas</span>
+  content: From simple to complex, we can make your custom Discord bots! We've made plenty of them over the years, and we're confident we can make yours quickly and successfully!
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/development.png"
+    alt_text: Bot Development
+
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: <strong>Hosting<span class="light">&nbsp;</span></strong><span
+    class="light">of your Discord bot / database / websites</span>
+  content: We know how to host bots, we've been doing it for years. Depending on your needs, we can also host the websites and databases needed for your bot!
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-- template: detail-content
-  block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
-    tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
-    the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
-    the site into <a href="https://forestry.io/">Forestry</a> (or use <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
+    image: "/uploads/hosting.png"
+    alt_text: Bot Hosting
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: <strong>Software-level Integration<span class="light">&nbsp;</span></strong><span
+    class="light">with your games or apps</span>
+  content: Integrate Discord with your software! Chat, capture information, or store profiles for each user. The best part - you can engage new users entirely from Discord!
+  media:
+    image: "/uploads/chat-integration.png"
+    alt_text: Chat Integration
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: <strong>Web and Mobile</strong><span class="light">&nbsp;app integrations</span>
+  content: Display your content in Discord and on the web to better engage your users! Whether you have a read-only informative site, or a fully-fledged app for your users to interact with, we do it all!
+  media:
+    image: "/uploads/web-app-integration.png"
+    alt_text: Web App Integration
+
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Copyright &copy; 2020 - <a href="mailto:discord@seiyria.com">Email Us</a>
 
 ---
-foo bar
